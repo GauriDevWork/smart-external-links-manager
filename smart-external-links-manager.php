@@ -5,7 +5,7 @@ Description: Automatically adds secure attributes to external links in post cont
 Version: 1.0.0
 Author: Gauri Kaushik
 License: GPLv2 or later
-Text Domain: smart-external-links-manager
+Text Domain: external-links-security-manager
 */
 
 if ( ! defined( 'ABSPATH' ) ) {
