@@ -1,4 +1,4 @@
-=== Smart External Links Manager ===
+=== External Links Security Manager ===
 Contributors: gauri
 Tags: external links, security, seo
 Requires at least: 5.5
